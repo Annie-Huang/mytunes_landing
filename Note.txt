@@ -15,5 +15,10 @@ https://www.pexels.com/photo/app-background-blur-business-545331/
 https://smartmockups.com/
 https://smartmockups.com/category/digital/responsive?filter=isolated
 https://smartmockups.com/mockup/ipad-mini-and-iphone-8-in-4-colors-BVY@oP2r9
+http://tools.dynamicdrive.com/
+http://tools.dynamicdrive.com/favicon/
 ============================================================
 
+Need to force reload to see the favicon.ico:
+Window: shift + F5
+Mac: command + shift + R
