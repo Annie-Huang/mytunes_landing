@@ -19,3 +19,24 @@ $(function() {
     });
     $('.open-menu').height($(window).height());
 });
+
+// Smooth Scrolling
+$('.cf a').on('click', function(event) {
+    // this.hash is #showcase, #music, etc
+    if (this.hash !== '') {
+        event.preventDefault();
+
+        const hash = this.hash;
+
+        // 800 is the speed in milliseconds.
+        $('html, body').animate(
+            {
+                scrollTop: $(hash).offset().top
+            },
+            800,
+            function() {
+                window.location.hash = hash;
+            }
+        );
+    }
+});
