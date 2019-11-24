@@ -247,15 +247,23 @@ nav a#openup {
         position: relative;
     }
 }
+
 .cf:before, .cf:after {
     content: "";
     display: table;
 }
-
 .cf:after {
     clear: both;
 }
-
 .cf {
     zoom: 1;
+}
+
+@media screen and (max-width: 780px) {
+    .gift-cards {
+        grid-template-columns: 1fr;
+    }
+    footer .footer-cols {
+        display: none;
+    }
 }
