@@ -8,6 +8,7 @@ body {
     line-height: 1.6;
 }
 
+
 /* Showcase */
 #showcase {
     margin: 0;
@@ -17,6 +18,30 @@ body {
     height: 100vh;
     overflow-y: hidden; /* I actually don't know why adding this will close the gap from the menu to the section-main */
 }
+#showcase .container {
+    margin-top: 25vh;
+}
+#showcase h1 {
+    font-size: 4rem;
+    margin-bottom: 0;
+}
+#showcase h2 {
+    font-size: 2rem;
+}
+
+
+/* Utility Classes */
+.container {
+    max-width: 1180px;
+    text-align: center;
+    margin: 0 auto; /* without this, max-width will not center the text */
+    padding: 0 3rem;
+}
+
+.lead {
+    font-size: 1.3rem;
+}
+
 
 /* Navigation */
 nav {
