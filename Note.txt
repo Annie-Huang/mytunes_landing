@@ -9,7 +9,11 @@ https://fontawesome.com/
 https://code.jquery.com/ << click the minified under JQuery 3.x
 https://fonts.google.com/
 https://fonts.google.com/?query=PT+Sans&selection.family=PT+Sans
-https://pixels.com/
-
+https://pexels.com
+https://www.pexels.com/search/app/
+https://www.pexels.com/photo/app-background-blur-business-545331/
+https://smartmockups.com/
+https://smartmockups.com/category/digital/responsive?filter=isolated
+https://smartmockups.com/mockup/ipad-mini-and-iphone-8-in-4-colors-BVY@oP2r9
 ============================================================
 
