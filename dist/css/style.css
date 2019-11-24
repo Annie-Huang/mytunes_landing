@@ -8,6 +8,17 @@ body {
     line-height: 1.6;
 }
 
+/* Showcase */
+#showcase {
+    margin: 0;
+    padding: 0;
+    background: url("../img/showcase.jpg") no-repeat center/cover;
+    width: 100%;
+    height: 100vh;
+    overflow-y: hidden; /* I actually don't know why adding this will close the gap from the menu to the section-main */
+}
+
+/* Navigation */
 nav {
     height: 40px;
     width: 100%;
