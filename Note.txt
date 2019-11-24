@@ -6,6 +6,7 @@ https://github.com/Annie-Huang/mytunes_landing
 
 https://fontawesome.com/
 https://code.jquery.com/ << click the minified under JQuery 3.x
-
+https://fonts.google.com/
+https://fonts.google.com/?query=PT+Sans&selection.family=PT+Sans
 ============================================================
 
